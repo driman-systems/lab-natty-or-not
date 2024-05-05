@@ -12,7 +12,7 @@ D-ID
 Criei um roteiro no ChatGPT sobre Nextjs 14, transformei em áudio no Elevenlabs e gerei o vídeo no D-ID
 
 ## 🚀 Resultados
-
+[Podcast](https://github.com/driman-systems/lab-natty-or-not.git/video/podcast.mp4)
 
 ## 💭 Reflexão (Opcional)
 Foi surpreendente o resultado, mas ainda dá para perceber que é uma coisa criada por IA.
